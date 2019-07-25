@@ -9,11 +9,13 @@ insights about the posts that circulate in this web page.
 
 ## Files in this Repository
 **wrangle_act.ipynb**: a jupyter notebook with all the analysis
+
 **act_report.pdf**: an act report
+
 **wrangle_report.pdf**: a technical report
 
 ## Outline
-The project was dived in three main sections:
+The project is divided in three main sections:
 - Gathering Data (Twitter API was used with other databases given by Udacityt)
 - Assessing Data
 - Cleaning Data
@@ -31,3 +33,6 @@ The project was dived in three main sections:
 - Seaborn
 - wordcloud
 - matplotlib
+
+## Acknowledgements 
+I would like to ackonwledge Udacity for the project and the data provided
